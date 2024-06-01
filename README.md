@@ -1,0 +1,4 @@
+the storyline of this project is that you are a patient in a mental hospital and are kept in an asylum wearing a straitjacket. You have to find ways to escape the hospital and go back outside. There is a zombie apacolypse and you have to escape the hospital
+
+the way this project will be made is that:
+the map is going to be a grid where 0 will represent an empty space, 1 will represent an exit, 2 will represent an obstacle such as a piece of furniture, 3 represents an object like a knife, 4 represents blood, 5 represents a wall, 6 represents you and anything above 6 will represent a zombie who will be moving around
